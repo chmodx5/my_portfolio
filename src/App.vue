@@ -1,6 +1,6 @@
 <template>
   <v-app light>
-    <v-toolbar app height="60" color='rgb(255,255,255,0.9)' flat>
+    <v-toolbar app height="60" color='rgb(255,255,255,0.7)' flat>
       <v-toolbar-title class="headline text-uppercase">
         <span>Portfolio </span>
         <span class="font-weight-light yellow--text text--darken-2"> Me</span>
