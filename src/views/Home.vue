@@ -1,13 +1,20 @@
 <template>
-  <HelloWorld />
+<div>
+  <intro />
+  <specialties />
+  <working-process />
+</div>
+  
 </template>
 
 <script>
-  import HelloWorld from '../components/HelloWorld'
+  import intro from '../components/intro';
+  import specialties from '../components/specialties';
+  import workingProcess from '../components/workingProcess';
 
   export default {
     components: {
-      HelloWorld
+      intro, specialties, workingProcess
     }
   }
 </script>
