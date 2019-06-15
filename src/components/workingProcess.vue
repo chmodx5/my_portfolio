@@ -2,7 +2,7 @@
     <v-container>
         <v-layout row wrap>
             <v-flex xs12 class="text-xs-center pt-5">
-                <h1 class="display-2 font-weight-light mb-2 ">Our Working process</h1>
+                <h1 class="display-2 font-weight-light mb-2 ">Our Working proces</h1>
                 <h4 class="subheading">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil quos tenetur sapiente magnam, nesciunt numquam obcaecati</h4>
             </v-flex>
             <v-flex xs12 class="py-5">
